@@ -1,1 +1,1 @@
-# "this script does not work"
+# this script doesn't work
