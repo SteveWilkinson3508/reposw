@@ -1,1 +1,1 @@
-gdbinit data
+gdbinit data - no-gdbinit
